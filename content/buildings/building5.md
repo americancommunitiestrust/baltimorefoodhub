@@ -1,8 +1,8 @@
 ---
-id: food-trucks
+id: Buildings 5 & 6
 
-title: Food Truck Parking and Commissary
-sf:
+title: Buildings 5 & 6
+sf:7,085 (combined)
 floors:
 ceiling:
 loading:
@@ -11,7 +11,9 @@ leased:
 
 ---
 
-We like food and we like trucks that make it easy for us to access it. Park your truck, store and prep your
-food and even have space to write some emails. The Baltimore Food Hub was made for you.
+•	Ideal for retail or manufacturing 
+•	Street frontage on heavily trafficked Wolfe & Gay Streets 
+•	Historic one-story stables will be joined to create single space 
+•	Exposed brick and concrete floors
+•	Adjacent to parking and planned community plaza 
 
-With 6 spots for Food Trucks, get in touch today to secure yours.
