@@ -43,16 +43,12 @@ nav:
     link: contact
     offset: -600
 
-mainContact:
+Contact:
   name: China Boak Terrell
   title: CEO
   email: china@actimpact.org
   phone: 410.989.1607
-leasingContact:
-  name: Peter Jackson
-  title: Jones Lang LaSalle
-  email: peterm.jackson@am.jll.com
-  phone: 410.935.3556
+
 
 mailchimpBlurb: 'Stay up to date on what’s happening.'
 
